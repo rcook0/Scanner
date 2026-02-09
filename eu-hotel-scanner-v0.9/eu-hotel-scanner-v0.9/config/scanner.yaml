@@ -1,0 +1,15 @@
+scan_mode: "cheap_only"
+max_cost_index_for_scan: 1.8
+
+base_cities_per_country: 3
+base_offers_per_destination: 50
+
+delay_seconds:
+  min: 5.0
+  max: 20.0
+
+alpha: 1.0
+
+# Optional quality filters (can also be overridden via CLI/UI)
+min_rating: null   # e.g. 7.5
+min_stars: null    # e.g. 3

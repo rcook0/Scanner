@@ -1,0 +1,4 @@
+PyYAML>=6.0
+requests>=2.31
+streamlit>=1.32
+python-dotenv>=1.0
