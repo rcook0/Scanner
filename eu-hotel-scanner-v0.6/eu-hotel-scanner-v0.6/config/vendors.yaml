@@ -1,0 +1,10 @@
+mode: "mock"   # "mock" | "live" | "mixed"
+
+mock:
+  enabled: true
+
+booking:
+  enabled: false
+  base_url: "https://YOUR-BOOKING-API-BASE"      # fill from official docs
+  api_key_env: "BOOKING_API_KEY"                 # env var name for key/token
+  timeout_seconds: 10

@@ -1,0 +1,32 @@
+- country_code: "BG"
+  country_name: "Bulgaria"
+  cities:
+    - name: "Sofia"
+      vendor_ref:
+        booking: "SOFIA_DEST_ID"      # placeholder Booking destination id
+    - name: "Plovdiv"
+      vendor_ref: {}
+
+- country_code: "RO"
+  country_name: "Romania"
+  cities:
+    - name: "Bucharest"
+      vendor_ref: {}
+    - name: "Cluj-Napoca"
+      vendor_ref: {}
+
+- country_code: "PT"
+  country_name: "Portugal"
+  cities:
+    - name: "Lisbon"
+      vendor_ref: {}
+    - name: "Porto"
+      vendor_ref: {}
+
+- country_code: "DK"
+  country_name: "Denmark"
+  cities:
+    - name: "Copenhagen"
+      vendor_ref: {}
+    - name: "Aarhus"
+      vendor_ref: {}
