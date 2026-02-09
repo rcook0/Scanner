@@ -1,0 +1,15 @@
+- country_code: "BG"
+  country_name: "Bulgaria"
+  cost_index: 1.0
+
+- country_code: "RO"
+  country_name: "Romania"
+  cost_index: 1.1
+
+- country_code: "PT"
+  country_name: "Portugal"
+  cost_index: 1.3
+
+- country_code: "DK"
+  country_name: "Denmark"
+  cost_index: 2.2
